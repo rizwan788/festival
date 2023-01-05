@@ -1,0 +1,38 @@
+.imag1 {
+    background-image: url('https://www.shutterstock.com/image-vector/illustration-happy-pongal-holiday-harvest-260nw-1882086463.jpg');
+    background-size: cover;
+    height: 39vh;
+}
+.first{
+    text-align: center;
+    padding-top: 50px;
+    color: azure;
+    text-decoration: underline;
+}
+.second{
+    background-color: lightblue;
+    height: 100vh;
+}
+.imger{
+    height:80px;
+    width:80px;
+    
+}
+.cardlayout{
+    background-color: white;
+    width: 120px;
+    border-radius: 15px;
+    padding: 8px;
+    height: 150px;
+    text-align:center;
+    margin: 30px;
+}
+.third{
+    font-size: 19px;
+}
+.forth{
+    font-weight: bold;
+}
+.rg{
+    text-align: center;
+}
